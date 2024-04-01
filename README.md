@@ -1,4 +1,4 @@
-# hi it's Mael!
+# hi it's Maël!
 
 Hi my name is Mael Maldonado and I am currently studying at 42school in paris.
 
