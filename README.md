@@ -1,9 +1,15 @@
-# hi it's Maël!
+# WHO AM I
+</br>
+My name is Maël, I am currently student at 42School. I aim to be a software devlopper but I'm still learning, so feel free to correct me.
+</br></br></br>
 
-Hi my name is Mael Maldonado and I am currently studying at 42school in Paris.
+# STATS
+</br></br>
+<div align=center>
 
-My projects are not the crasiest but I'm still learning! (If you see errors in my code please notify me, I'm open to any tips in code)
-
-Currently using c but I have notions in python and bash!
-
-contact me at maemaldo@student.42.fr
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaelM&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samaelM&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=samaelM&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+</div>
+</br></br></br>
+<i>contact me at maemaldo@student.42.fr</i>
